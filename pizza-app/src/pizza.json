@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "baseprice": 0799,
+    "size": "Small",
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "baseprice": 1000,
+    "size": "Medium",
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "baseprice": 1299,
+    "size": "Large",
+  }
+  {
+    "id": 4,
+    "name": "Pizza",
+    "baseprice": 1599,
+    "size": "Extra Large",
+  }
+
+]

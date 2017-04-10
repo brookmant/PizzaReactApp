@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "topping": "Extra Cheese",
+    "price": 0050,
+  },
+  {
+    "id": 2,
+    "topping": "Meat",
+    "price": 0250,
+  },
+  {
+    "id": 3,
+    "topping": "Seafood",
+    "price": 0250,
+  },
+  {
+    "id": 4,
+    "topping": "Vegatables",
+    "price": 0150,
+  },
+  {
+    "id": 5,
+    "topping": "Fruit",
+    "price": 0150,
+  }
+]
