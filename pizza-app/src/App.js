@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to Pizza App</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          My Pizza App Just Starting with React.js and Redux
         </p>
       </div>
     );
